@@ -17,6 +17,16 @@ public class Prueba {
     public static void main(String[] args) {
         System.out.println("Hello world");
         System.out.println("Esto es una prueba");
+        
+        metodoPrueba();
+    }
+
+    
+    
+    
+    
+    private static void metodoPrueba() {
+        //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }
