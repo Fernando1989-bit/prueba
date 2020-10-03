@@ -14,7 +14,11 @@ public class ClasePrueba {
     
     
     
-    public void metodoPrueba(){
+    private void metodoPrueba(){
         System.out.println("se esta ejecutando la prueba");
+    }
+    
+    private void metodoPrueba2(){
+        System.out.println("Segunda prueba");
     }
 }
