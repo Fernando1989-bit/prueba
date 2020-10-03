@@ -15,9 +15,11 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        ClaseDePrueba cp = new ClaseDePrueba();
         System.out.println("Hello world");
         System.out.println("Esto es una prueba");
         System.out.println("Esto es otra prueba");
+        cp.metodoDePrueba();
     }
     
 }
